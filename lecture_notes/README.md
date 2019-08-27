@@ -1,2 +1,2 @@
-#Lecture notes
-#수업자료
+# Lecture notes
+# 수업자료
