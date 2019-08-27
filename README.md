@@ -5,7 +5,7 @@
 
 ### 주요 자료 (Main Teaching Materials)
 - 강의 자료:
-   - [Lecture notes](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs)(All the lecture materials can be found in [PPT Directory](https://github.com/sunghlim/2019_fall_bigdata/lecture_notes))
+   - [Lecture notes](https://github.com/jeonggunlee/Parallel_Programming/tree/master/PPTs) (All the lecture materials can be found in [Lecture_notes directory](https://github.com/sunghlim/2019_fall_bigdata/lecture_notes))
 - 실습 자료 (Lab materials):
    - [Homework](https://github.com/sunghlim/2019_fall_bigdata/homework)
 
